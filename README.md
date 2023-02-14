@@ -12,3 +12,5 @@ F15 Model: Vazgriz (YT: Vazgriz)
 <b>How to run:</b>
 - Download the GameBuild folder.
 - Run Plane Game.exe
+
+![alt text](https://github.com/anthonyCGit/PlaneGame/blob/main/Preview.png)
